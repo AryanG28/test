@@ -29,7 +29,7 @@ public class Change {
    System.out.println("The minimum amount of coins is: ");
    System.out.println("Quarters: " + amountOfQuarters);
    System.out.println("Dimes: " + amountOfDimes);
-   System.out.println("Nickels: "+ amountOfNickels);
+   System.out.println("Nickels n: "+ amountOfNickels);
    System.out.println("Pennies: "+ amountOfPennies);
 
 
